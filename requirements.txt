@@ -1,0 +1,6 @@
+opencv_contrib_python==4.8.0.74
+opencv_python==4.8.0.74
+Pillow==10.0.0
+Pillow==10.3.0
+~umpy==1.22.4
+~umpy==1.24.3
